@@ -1,0 +1,48 @@
+ Agile is SDLC Model and SCRUM is Frame work in Agile. other Agile Frame works are XP,KANBAN,FDD.
+ 
+ Scrum:
+ Every role, ie Scrum Master, Product Owner and the Development Team.
+ Product Owner : In s/w development the person who decides what kind of s/w or product is to be built is known as Product Owner.
+ Development Team : The people who build what is asked by the product owner is called Development Team.
+ when this s/w development process is conducted by following Agile then an incremental approached is followed.
+ it follows certain values in developing products.so, while following Agile,value is delivered to the customers in small and regular increments.Then customer feedback is taken inorder to understand the customers view towards the product.
+ The product owner then collects the feedback from the customers and various stake holders.Then according to all the feedbacks, he craetes a prioritized list of features which should be added to the product or s/w. This prioritized list is known as the 
+ product backlog.
+The development team then tries to add these features to the productin order to make the product better and this process keeps
+repeating.
+Now scrum adds some more routines and rituals to this process. the persons who helps in facilitating these rituals is known as
+the scrum master.
+
+ Every event, ie Sprint, Sprint Planning Meeting, Daily Scrum, Sprint Review and Sprint Retrospective.
+ scrum team works in sprints . sprint meeting includes scrum master, Product owner and development team , all of them select the high priority items from the product backlog in such a way that the development team can deliver them in one single sprint.
+ This list of selected items is known as the sprint backlog.The development team works on the sprint backlog through out the sprint.
+ During daily scrum meeting and each participant has three questions 
+ what did you do yesterday?
+ what will you do Today?
+ what are the implementations in your way and what are the impediments in your way?
+ the output of the sprint is a shippable product
+ Sprint Review and Sprint Retrospective are 2 rituals which occurs post sprint.
+ sprint Review : scrum team showcases what it accomplished during the sprint.it is kind of a demo of the new features added in the product.
+ sprint Retrospective : The team contemplate on what went well ,what went bad and what could be improved.
+ The object of the sprint Retrospective is to improve the sprints which will be held in the future.
+ 
+ Different artifacts ie Product Backlog, Sprint Backlog
+ 
+ Challenges ?
+ 
+ we have multiple secrets for micro services storing secrets in jenkins 
+ 
+ Docker image size reduction using docker multi stage build and using the Distroless image.
+ A Distroless image typically contains:
+
+The application binary or interpreted code
+The application’s direct dependencies (libraries, modules, etc.)
+Minimal system libraries required to run the application
+A runtime if needed (e.g., for Java applications, it would have a JVM)
+In contrast, it doesn’t have:
+
+Shell utilities.
+Package managers.
+Any other binaries or tools typical of an OS distribution.
+
+versioning and tracking (Remote backend)of terraform scripts.
